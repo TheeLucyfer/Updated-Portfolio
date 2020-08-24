@@ -98,6 +98,7 @@ h1, h2, h3, h4, h5, h6 {
      position: relative;
  }
  .absolute-positions {
+     display: block;
      position: absolute;
      bottom: 5px;
      background-color: #4aaaa5;
